@@ -15,8 +15,5 @@ public class a {
         b3.print();
         // fadsfhsahfoasjflsjafja;l
         // fadsfhsahfoasjflsjafja;l
-        // fadsfhsahfoasjflsjafja;l
-        // fadsfhsahfoasjflsjafja;l
-        // fadsfhsahfoasjflsjafja;l
     }
 }
